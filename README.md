@@ -4,7 +4,7 @@ Integração com o Home Assistant para as centrais de alarme JFL da linha Active
 
 ## Instalação via HACS
 
-[![Abrir seu Home Assistant instance e abrir um repositório dentro do Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=fernac03&repository=JFL_ACTIVE&category=integration)
+[![Abrir seu Home Assistant instance e abrir um repositório dentro do Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=felipecrs&repository=JFL_ACTIVE&category=integration)
 
 ## Instalação manual
 
